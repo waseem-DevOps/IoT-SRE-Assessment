@@ -1,4 +1,4 @@
- تم تنظيم الملف لتغطية جميع المتطلبات المذكورة:
+
 
 🌐 Web Application Infrastructure on AWS with Terraform
 This repository provisions a complete infrastructure for a web application on AWS using Terraform.
